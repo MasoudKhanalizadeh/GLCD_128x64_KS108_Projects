@@ -35,7 +35,7 @@ void loop() {
   // Clear the display and display the text
   display.clearDisplay();
   display.setTextColor(KS0108_ON);
-  display.setCursor(10, 35); // Adjust based on font size
+  display.setCursor(0, 35); // Adjust based on font size
   display.print(F("Hello World!"));
   display.display();
   delay(1000); // Wait for 500 ms
