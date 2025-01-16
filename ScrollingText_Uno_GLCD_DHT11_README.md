@@ -1,7 +1,7 @@
 # Scrolling Text Display with Arduino
 
 ## Overview
-This project demonstrates a **scrolling text display** on a KS0108 graphical LCD using an Arduino. It combines dynamic scrolling text with a blinking message effect, as well as temperature and humidity readings from a DHT11 sensor.
+This project demonstrates a **scrolling text display** on a KS0108 graphical LCD 128*64 using an Arduino. It combines dynamic scrolling text with a blinking message effect, as well as temperature and humidity readings from a DHT11 sensor.
 
 ### Features
 - **Scrolling Text**: A custom message scrolls from right to left across the screen.
