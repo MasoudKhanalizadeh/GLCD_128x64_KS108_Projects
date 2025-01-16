@@ -1,7 +1,7 @@
 # Temperature and Humidity Display with Arduino
 
 ## Overview
-This project demonstrates a **temperature and humidity display** using a KS0108 graphical LCD and a DHT11 sensor with an Arduino. The data is displayed in real-time on the screen, showing temperature in Celsius and humidity in percentage.
+This project demonstrates a **temperature and humidity display** using a KS0108 graphical LCD 128*64 and a DHT11 sensor with an Arduino. The data is displayed in real-time on the screen, showing temperature in Celsius and humidity in percentage.
 
 ### Features
 - **Real-time Environmental Data**: Displays temperature and humidity readings in real-time.
